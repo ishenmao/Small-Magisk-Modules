@@ -1,6 +1,6 @@
 {
     "version": "v2.4",
     "versionCode": 24,
-    "zipUrl": "",
+    "zipUrl": "https://github.com/ishenmao/Small-Magisk-Modules/releases/download/httpcanaryCA_v2.4/HttpCanaryRootCA.zip",
     "changelog": "https://raw.githubusercontent.com/ishenmao/Small-Magisk-Modules/main/HttpCanaryRootCA/changelog.md"
 }
