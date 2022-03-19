@@ -1,0 +1,7 @@
+id=HttpCanaryRootCA
+name=HttpCanaryRootCA
+version=v2.4
+versionCode=24
+author=酷安@阿猫acat
+description=为安卓11+设备安装HttpCanaryCA证书至系统。
+updateJson=
